@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">One Piece HD</string>
+    <string name="OK">حسنا</string>
+    <string name="success_image_download">تم تحميل الصورة</string>
+
+    <string name="View">عرض</string>
+
+    <string name="check_your_internet">تأكد من اتصال الانترنت</string>
+
+    <string name="TirnOnWifiOrData">قم بتشغيل الانترنت رجاءا</string>
+
+    <string name="wantToExite">هل تود الخروج ؟</string>
+
+    <string name="PlzShareOurApp">فضلا...قم بماركة وتقييم البرنامج</string>
+
+    <string name="No">لا</string>
+    <string name="AppLik">this is my app link ...OK</string>
+
+    <string name="Exit">خروج</string>
+
+    <string name="ShareAppButton">شارك التطبيق</string>
+
+    <string name="set_message_title">نجاح</string>
+
+    <string name="success_set_message">Wallpaper set successfully</string>
+</resources>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources><string name="app_name">One Piece HD</string>
+
+
+    <string name="OK">ОК</string>
+
+    <string name="success_image_download">Image downloaded</string>
+
+    <string name="View">View</string>
+
+    <string name="check_your_internet">Check Internet Connection!</string>
+
+    <string name="TirnOnWifiOrData">Turn on your WIFI or Data</string>
+
+    <string name="wantToExite">Want to exit ?</string>
+
+    <string name="PlzShareOurApp">Please Share/Rate our App</string>
+    <string name="AppLik">this is my app link ...OK</string>
+    <string name="No">No</string>
+
+    <string name="Exit">Exit</string>
+
+    <string name="ShareAppButton">Share App</string></resources>

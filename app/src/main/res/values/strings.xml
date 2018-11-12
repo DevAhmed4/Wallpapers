@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">One Piece HD</string>
+    <string name="success_image_download">Downloaded</string>
+    <string name="View">View</string>
+    <string name="check_your_internet">check your Internet</string>
+    <string name="TirnOnWifiOrData">Turn On Wifi or Data</string>
+    <string name="OK"> ok </string>
+    <string name="wantToExite">Do you want to exit?</string>
+    <string name="PlzShareOurApp">Please share our app</string>
+    <string name="Exit">Exit</string>
+    <string name="No">NO</string>
+    <string name="ShareAppButton">Share App</string>
+    <string name="AppLik">this is my app link ...OK</string>
+    <string name="set_message_title">Success</string>
+    <string name="success_set_message">Wallpaper set successfully</string>
+
+
+
+
+
+    <!-- Not important -->
+
+
+
+
+
+</resources>
